@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="username">Shantanu</string>
+    <string name="password">chaudhary</string>
+    <string name="login_preference">com.approcket.sharedpreference.login_prefernce</string>
+    <string name="login_status_preference">com.approcket.sharedpreference.login_status_prefernce</string>
+</resources>
